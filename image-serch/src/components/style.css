@@ -1,0 +1,37 @@
+
+.buttonn{
+    background-color: #c7d015;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+}
+.buttonn2{
+    background-color: aquamarine;
+    border: none;
+    color: rgb(11, 13, 11);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+}
+.serch-bar{
+    line-height: 3rem;
+    padding: 0.5rem 2rem;
+    border-radius: 20px;
+}
+.bar{
+    display: grid;
+}
+.img-card{
+    width: 50%;
+    height: 50%;
+    flex: 100%;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+.pic-cont{
+    column-count: 3;
+}
